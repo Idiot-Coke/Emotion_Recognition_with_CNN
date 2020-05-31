@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images_test2/background.png</file>
+    <file>images_test2/blue.gif</file>
+    <file>images_test2/dakaiwenjian.png</file>
+    <file>images_test2/ini.png</file>
+    <file>images_test2/jishi.png</file>
+    <file>images_test2/shexiangtou.png</file>
+    <file>images_test2/wenjian.png</file>
+    <file>images_test2/zhibiaojieguo.png</file>
+    <file>images_test/recovery.png</file>
+    <file>images_test/folder_web.png</file>
+    <file>images_test/g1.png</file>
+    <file>images_test/background.PNG</file>
+    <file>images_test/ini.png</file>
+    <file>images_test/slice.png</file>
+    <file>images_test/scan.gif</file>
+    <file>images_test/net_speed.png</file>
+    <file>images_test/result.png</file>
+  </qresource>
+</RCC>
