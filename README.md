@@ -29,9 +29,12 @@ In train_emotion_classifier.py you can select the neural network, select the dat
 
 ## To train models for emotion classification
 ·Download the fer2013.tar.gz file from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+
 ·Move the downloaded file to the datasets directory inside this repository.
+
 ·Untar the file
 - `tar -xzf fer2013.tar`
+
 ·Run the train_emotion_classifier.py file
 - `python train_emotion_classifier.py`
 
