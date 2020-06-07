@@ -39,4 +39,4 @@ In train_emotion_classifier.py you can select the neural network, select the dat
 - `python train_emotion_classifier.py`
 
 ## Result
- ![image]（https://github.com/Idiot-Coke/Emotion_Recognition_with_CNN/img_test/result.png）
+ ![image]（https://github.com/Idiot-Coke/Emotion_Recognition_with_CNN/tree/master/img_test/result.png）
