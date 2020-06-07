@@ -8,7 +8,7 @@ from keras.callbacks import ReduceLROnPlateau
 from keras.preprocessing.image import ImageDataGenerator
 from load_and_process import load_fer2013
 from load_and_process import preprocess_input
-from models.cnn import mini_XCEPTION
+from models.cnn import mini_XCEPTION, simpler_CNN, simple_CNN, big_XCEPTION, tiny_XCEPTION
 from sklearn.model_selection import train_test_split
 
 # 参数
