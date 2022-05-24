@@ -2,7 +2,7 @@ keras==2.2.4
 PyQt5==5.11.3
 pandas==0.24.2
 scikit-learn==0.21.2
-tensorflow==1.15.2
+tensorflow==2.6.4
 imutils==0.5.2
 opencv-python==4.1.0.25
 matplotlib==3.2.1
